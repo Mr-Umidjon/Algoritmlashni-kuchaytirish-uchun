@@ -1,15 +1,10 @@
 # Welcome
-# LIST Indexing
-
-Automated grading of homework assignments and tests
-- fork this repository
-- solve the task
-- commit with proper message
 
 # Problems
-## List01
+## 01
 
-  Return an empty list to the result.
+  1. Kubning qirrasi (a) berilgan. Uning hajmini va yon tomoni yuzasini hisoblovchi programma tuzilsin.
+                             V=a**3, S= 6*a?
 
 **Example 1:**
 
