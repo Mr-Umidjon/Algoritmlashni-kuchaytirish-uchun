@@ -4,7 +4,7 @@
 ## 01
 
   1. Kubning qirrasi (a) berilgan. Uning hajmini va yon tomoni yuzasini hisoblovchi programma tuzilsin.
-                             V=a**3, S= 6*a?
+                             V=a^3, S= 6*a?
 
 **Example 1:**
 
