@@ -4,13 +4,20 @@
 ## 01
 
   1. Kubning qirrasi (a) berilgan. Uning hajmini va yon tomoni yuzasini hisoblovchi programma tuzilsin.
-                             V=a^3, S= 6*a?
+                             V=a^3, S= 6*a^2?
 
 **Example 1:**
 
-```Python
-Input:
-Output: []
+```Python, C, C++, ...
+Input: 2
+Output: V=8, S=24
+
+```
+**Example 2:**
+
+```Python, C, C++, ...
+Input: 5
+Output: V=125, S=150
 
 ```
 
