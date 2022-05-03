@@ -21,28 +21,29 @@ Output: V=125, S=150
 
 ```
 
-## List02
+## 02
 
-  A list of several elements is given. Return the first item.
+  2. To'g'ri burchakli uchburchakning katetlariavabberilgan. Uchburchakning gepatenuzasi (c) va yuzi (s) ni hisoblovchi programma tuzing.
+  c^2 = a^2 + b^2         S = ab/2
 
 **Example 1:**
 
-```Python
-Input: list1=[1,2,3,4,5]
-Output: 1
+```Python, C, C++, ...
+Input: a=3, b=4
+Output: c=5, S=6
 
 ```
 
 **Example 2:**
 
-```Python
-Input: list1=["x", 1, "y", 2, "z", 3]
-Output: "x"
+```Python, C, C++, ...
+Input: a=12, b=5
+Output: c=13, S=60
 
 ```
 **Constraints:**
 
-  - 1 <= length(list1) <= 10^5
+  - 1 <= a, b <= 10^5
 
 ## List03
 
