@@ -1,0 +1,1 @@
+# Algoritmlashni-kuchaytirish-uchun
