@@ -24,7 +24,7 @@ Output: V=125, S=150
 ## 02
 
   2. To'g'ri burchakli uchburchakning katetlariavabberilgan. Uchburchakning gepatenuzasi (c) va yuzi (s) ni hisoblovchi programma tuzing.
-  c^2 = a^2 + b^2.            S = ab/2
+  c^2 = a^2 + b^2. \t S = ab/2
 
 **Example 1:**
 
