@@ -4,7 +4,7 @@
 ## 01
 
   1. Kubning qirrasi (a) berilgan. Uning hajmini va yon tomoni yuzasini hisoblovchi programma tuzilsin.
-                             V=a^3, S= 6*a^2?
+                             V=a^3,		S= 6*a^2?
 
 **Example 1:**
 
@@ -23,8 +23,8 @@ Output: V=125, S=150
 
 ## 02
 
-  2. To'g'ri burchakli uchburchakning katetlariavabberilgan. Uchburchakning gepatenuzasi (c) va yuzi (s) ni hisoblovchi programma tuzing.
-                               c^2 = a^2 + b^2, S = ab/2
+  2. To'g'ri burchakli uchburchakning katetlariavabberilgan.  Uchburchakning gepatenuzasi (c) va yuzi (s) ni hisoblovchi programma tuzing. 
+                               		c^2 = a^2 + b^2,		S = ab/2
 
 **Example 1:**
 
